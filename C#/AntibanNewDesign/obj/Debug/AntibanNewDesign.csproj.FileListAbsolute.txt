@@ -1,0 +1,118 @@
+C:\Users\LethalYT\source\repos\AntibanNewDesign\AntibanNewDesign\bin\Debug\Lethal Antiban.exe
+C:\Users\LethalYT\source\repos\AntibanNewDesign\AntibanNewDesign\bin\Debug\Lethal Antiban.pdb
+C:\Users\LethalYT\source\repos\AntibanNewDesign\AntibanNewDesign\bin\Debug\FireSharp.dll
+C:\Users\LethalYT\source\repos\AntibanNewDesign\AntibanNewDesign\bin\Debug\FireSharp.Serialization.JsonNet.dll
+C:\Users\LethalYT\source\repos\AntibanNewDesign\AntibanNewDesign\bin\Debug\Newtonsoft.Json.dll
+C:\Users\LethalYT\source\repos\AntibanNewDesign\AntibanNewDesign\bin\Debug\RestSharp.dll
+C:\Users\LethalYT\source\repos\AntibanNewDesign\AntibanNewDesign\bin\Debug\Newtonsoft.Json.xml
+C:\Users\LethalYT\source\repos\AntibanNewDesign\AntibanNewDesign\bin\Debug\RestSharp.xml
+C:\Users\LethalYT\source\repos\AntibanNewDesign\AntibanNewDesign\obj\Debug\Interop.SHDocVw.dll
+C:\Users\LethalYT\source\repos\AntibanNewDesign\AntibanNewDesign\obj\Debug\AntibanNewDesign.csproj.ResolveComReference.cache
+C:\Users\LethalYT\source\repos\AntibanNewDesign\AntibanNewDesign\obj\Debug\AntibanNewDesign.Main.resources
+C:\Users\LethalYT\source\repos\AntibanNewDesign\AntibanNewDesign\obj\Debug\AntibanNewDesign.Login.resources
+C:\Users\LethalYT\source\repos\AntibanNewDesign\AntibanNewDesign\obj\Debug\AntibanNewDesign.Properties.Resources.resources
+C:\Users\LethalYT\source\repos\AntibanNewDesign\AntibanNewDesign\obj\Debug\AntibanNewDesign.csproj.GenerateResource.cache
+C:\Users\LethalYT\source\repos\AntibanNewDesign\AntibanNewDesign\obj\Debug\AntibanNewDesign.csproj.CoreCompileInputs.cache
+C:\Users\LethalYT\source\repos\AntibanNewDesign\AntibanNewDesign\obj\Debug\AntibanNewDesign.csproj.CopyComplete
+C:\Users\LethalYT\source\repos\AntibanNewDesign\AntibanNewDesign\obj\Debug\Lethal Antiban.exe
+C:\Users\LethalYT\source\repos\AntibanNewDesign\AntibanNewDesign\obj\Debug\Lethal Antiban.pdb
+C:\Users\LethalYT\source\repos\AntibanNewDesign\AntibanNewDesign\obj\Debug\AntibanNewDesign.csprojAssemblyReference.cache
+D:\ALL HERE OLD\AntibanNewDesign\AntibanNewDesign\bin\Debug\Lethal Antiban.exe
+D:\ALL HERE OLD\AntibanNewDesign\AntibanNewDesign\bin\Debug\Lethal Antiban.pdb
+D:\ALL HERE OLD\AntibanNewDesign\AntibanNewDesign\bin\Debug\FireSharp.dll
+D:\ALL HERE OLD\AntibanNewDesign\AntibanNewDesign\bin\Debug\FireSharp.Serialization.JsonNet.dll
+D:\ALL HERE OLD\AntibanNewDesign\AntibanNewDesign\bin\Debug\Newtonsoft.Json.dll
+D:\ALL HERE OLD\AntibanNewDesign\AntibanNewDesign\bin\Debug\RestSharp.dll
+D:\ALL HERE OLD\AntibanNewDesign\AntibanNewDesign\bin\Debug\Newtonsoft.Json.xml
+D:\ALL HERE OLD\AntibanNewDesign\AntibanNewDesign\bin\Debug\RestSharp.xml
+D:\ALL HERE OLD\AntibanNewDesign\AntibanNewDesign\obj\Debug\AntibanNewDesign.csprojAssemblyReference.cache
+D:\ALL HERE OLD\AntibanNewDesign\AntibanNewDesign\obj\Debug\Interop.SHDocVw.dll
+D:\ALL HERE OLD\AntibanNewDesign\AntibanNewDesign\obj\Debug\AntibanNewDesign.csproj.ResolveComReference.cache
+D:\ALL HERE OLD\AntibanNewDesign\AntibanNewDesign\obj\Debug\AntibanNewDesign.Main.resources
+D:\ALL HERE OLD\AntibanNewDesign\AntibanNewDesign\obj\Debug\AntibanNewDesign.Login.resources
+D:\ALL HERE OLD\AntibanNewDesign\AntibanNewDesign\obj\Debug\AntibanNewDesign.Properties.Resources.resources
+D:\ALL HERE OLD\AntibanNewDesign\AntibanNewDesign\obj\Debug\AntibanNewDesign.csproj.GenerateResource.cache
+D:\ALL HERE OLD\AntibanNewDesign\AntibanNewDesign\obj\Debug\AntibanNewDesign.csproj.CoreCompileInputs.cache
+D:\ALL HERE OLD\AntibanNewDesign\AntibanNewDesign\obj\Debug\AntibanNewDesign.csproj.CopyComplete
+D:\ALL HERE OLD\AntibanNewDesign\AntibanNewDesign\obj\Debug\Lethal Antiban.exe
+D:\ALL HERE OLD\AntibanNewDesign\AntibanNewDesign\obj\Debug\Lethal Antiban.pdb
+C:\Users\badshah\Desktop\AntibanNewDesign\AntibanNewDesign\bin\Debug\Lethal Antiban.exe
+C:\Users\badshah\Desktop\AntibanNewDesign\AntibanNewDesign\bin\Debug\Lethal Antiban.pdb
+C:\Users\badshah\Desktop\AntibanNewDesign\AntibanNewDesign\bin\Debug\FireSharp.dll
+C:\Users\badshah\Desktop\AntibanNewDesign\AntibanNewDesign\bin\Debug\FireSharp.Serialization.JsonNet.dll
+C:\Users\badshah\Desktop\AntibanNewDesign\AntibanNewDesign\bin\Debug\Newtonsoft.Json.dll
+C:\Users\badshah\Desktop\AntibanNewDesign\AntibanNewDesign\bin\Debug\RestSharp.dll
+C:\Users\badshah\Desktop\AntibanNewDesign\AntibanNewDesign\bin\Debug\Newtonsoft.Json.xml
+C:\Users\badshah\Desktop\AntibanNewDesign\AntibanNewDesign\bin\Debug\RestSharp.xml
+C:\Users\badshah\Desktop\AntibanNewDesign\AntibanNewDesign\obj\Debug\AntibanNewDesign.csprojAssemblyReference.cache
+C:\Users\badshah\Desktop\AntibanNewDesign\AntibanNewDesign\obj\Debug\Interop.SHDocVw.dll
+C:\Users\badshah\Desktop\AntibanNewDesign\AntibanNewDesign\obj\Debug\AntibanNewDesign.csproj.ResolveComReference.cache
+C:\Users\badshah\Desktop\AntibanNewDesign\AntibanNewDesign\obj\Debug\AntibanNewDesign.Main.resources
+C:\Users\badshah\Desktop\AntibanNewDesign\AntibanNewDesign\obj\Debug\AntibanNewDesign.Login.resources
+C:\Users\badshah\Desktop\AntibanNewDesign\AntibanNewDesign\obj\Debug\AntibanNewDesign.Properties.Resources.resources
+C:\Users\badshah\Desktop\AntibanNewDesign\AntibanNewDesign\obj\Debug\AntibanNewDesign.csproj.GenerateResource.cache
+C:\Users\badshah\Desktop\AntibanNewDesign\AntibanNewDesign\obj\Debug\AntibanNewDesign.csproj.CoreCompileInputs.cache
+C:\Users\badshah\Desktop\AntibanNewDesign\AntibanNewDesign\obj\Debug\AntibanNewDesign.csproj.CopyComplete
+C:\Users\badshah\Desktop\AntibanNewDesign\AntibanNewDesign\obj\Debug\Lethal Antiban.exe
+C:\Users\badshah\Desktop\AntibanNewDesign\AntibanNewDesign\obj\Debug\Lethal Antiban.pdb
+E:\VS P\EGYPT\New folder (2)\fuul_antiban_with_key\AntibanNewDesign\AntibanNewDesign\bin\Debug\Lethal Antiban.exe
+E:\VS P\EGYPT\New folder (2)\fuul_antiban_with_key\AntibanNewDesign\AntibanNewDesign\bin\Debug\Lethal Antiban.pdb
+E:\VS P\EGYPT\New folder (2)\fuul_antiban_with_key\AntibanNewDesign\AntibanNewDesign\bin\Debug\FireSharp.dll
+E:\VS P\EGYPT\New folder (2)\fuul_antiban_with_key\AntibanNewDesign\AntibanNewDesign\bin\Debug\FireSharp.Serialization.JsonNet.dll
+E:\VS P\EGYPT\New folder (2)\fuul_antiban_with_key\AntibanNewDesign\AntibanNewDesign\bin\Debug\Guna.UI2.dll
+E:\VS P\EGYPT\New folder (2)\fuul_antiban_with_key\AntibanNewDesign\AntibanNewDesign\bin\Debug\Newtonsoft.Json.dll
+E:\VS P\EGYPT\New folder (2)\fuul_antiban_with_key\AntibanNewDesign\AntibanNewDesign\bin\Debug\RestSharp.dll
+E:\VS P\EGYPT\New folder (2)\fuul_antiban_with_key\AntibanNewDesign\AntibanNewDesign\bin\Debug\Newtonsoft.Json.xml
+E:\VS P\EGYPT\New folder (2)\fuul_antiban_with_key\AntibanNewDesign\AntibanNewDesign\bin\Debug\RestSharp.xml
+E:\VS P\EGYPT\New folder (2)\fuul_antiban_with_key\AntibanNewDesign\AntibanNewDesign\obj\Debug\Interop.SHDocVw.dll
+E:\VS P\EGYPT\New folder (2)\fuul_antiban_with_key\AntibanNewDesign\AntibanNewDesign\obj\Debug\AntibanNewDesign.csproj.ResolveComReference.cache
+E:\VS P\EGYPT\New folder (2)\fuul_antiban_with_key\AntibanNewDesign\AntibanNewDesign\obj\Debug\AntibanNewDesign.Main.resources
+E:\VS P\EGYPT\New folder (2)\fuul_antiban_with_key\AntibanNewDesign\AntibanNewDesign\obj\Debug\AntibanNewDesign.Login.resources
+E:\VS P\EGYPT\New folder (2)\fuul_antiban_with_key\AntibanNewDesign\AntibanNewDesign\obj\Debug\AntibanNewDesign.Properties.Resources.resources
+E:\VS P\EGYPT\New folder (2)\fuul_antiban_with_key\AntibanNewDesign\AntibanNewDesign\obj\Debug\AntibanNewDesign.csproj.GenerateResource.cache
+E:\VS P\EGYPT\New folder (2)\fuul_antiban_with_key\AntibanNewDesign\AntibanNewDesign\obj\Debug\AntibanNewDesign.csproj.CoreCompileInputs.cache
+E:\VS P\EGYPT\New folder (2)\fuul_antiban_with_key\AntibanNewDesign\AntibanNewDesign\obj\Debug\AntibanNewDesign.csproj.CopyComplete
+E:\VS P\EGYPT\New folder (2)\fuul_antiban_with_key\AntibanNewDesign\AntibanNewDesign\obj\Debug\Lethal Antiban.exe
+E:\VS P\EGYPT\New folder (2)\fuul_antiban_with_key\AntibanNewDesign\AntibanNewDesign\obj\Debug\Lethal Antiban.pdb
+C:\Users\badshah\Downloads\AntibanNewDesign\AntibanNewDesign\AntibanNewDesign\bin\Debug\EGYPTION V2.0 FIXED.exe
+C:\Users\badshah\Downloads\AntibanNewDesign\AntibanNewDesign\AntibanNewDesign\bin\Debug\EGYPTION V2.0 FIXED.pdb
+C:\Users\badshah\Downloads\AntibanNewDesign\AntibanNewDesign\AntibanNewDesign\bin\Debug\FireSharp.dll
+C:\Users\badshah\Downloads\AntibanNewDesign\AntibanNewDesign\AntibanNewDesign\bin\Debug\FireSharp.Serialization.JsonNet.dll
+C:\Users\badshah\Downloads\AntibanNewDesign\AntibanNewDesign\AntibanNewDesign\bin\Debug\Guna.UI2.dll
+C:\Users\badshah\Downloads\AntibanNewDesign\AntibanNewDesign\AntibanNewDesign\bin\Debug\Newtonsoft.Json.dll
+C:\Users\badshah\Downloads\AntibanNewDesign\AntibanNewDesign\AntibanNewDesign\bin\Debug\RestSharp.dll
+C:\Users\badshah\Downloads\AntibanNewDesign\AntibanNewDesign\AntibanNewDesign\bin\Debug\Newtonsoft.Json.xml
+C:\Users\badshah\Downloads\AntibanNewDesign\AntibanNewDesign\AntibanNewDesign\bin\Debug\RestSharp.xml
+C:\Users\badshah\Downloads\AntibanNewDesign\AntibanNewDesign\AntibanNewDesign\obj\Debug\Interop.SHDocVw.dll
+C:\Users\badshah\Downloads\AntibanNewDesign\AntibanNewDesign\AntibanNewDesign\obj\Debug\AntibanNewDesign.csproj.ResolveComReference.cache
+C:\Users\badshah\Downloads\AntibanNewDesign\AntibanNewDesign\AntibanNewDesign\obj\Debug\AntibanNewDesign.Main.resources
+C:\Users\badshah\Downloads\AntibanNewDesign\AntibanNewDesign\AntibanNewDesign\obj\Debug\AntibanNewDesign.Login.resources
+C:\Users\badshah\Downloads\AntibanNewDesign\AntibanNewDesign\AntibanNewDesign\obj\Debug\AntibanNewDesign.Properties.Resources.resources
+C:\Users\badshah\Downloads\AntibanNewDesign\AntibanNewDesign\AntibanNewDesign\obj\Debug\AntibanNewDesign.csproj.GenerateResource.cache
+C:\Users\badshah\Downloads\AntibanNewDesign\AntibanNewDesign\AntibanNewDesign\obj\Debug\AntibanNewDesign.csproj.CoreCompileInputs.cache
+C:\Users\badshah\Downloads\AntibanNewDesign\AntibanNewDesign\AntibanNewDesign\obj\Debug\AntibanNewDesign.csproj.CopyComplete
+C:\Users\badshah\Downloads\AntibanNewDesign\AntibanNewDesign\AntibanNewDesign\obj\Debug\EGYPTION V2.0 FIXED.exe
+C:\Users\badshah\Downloads\AntibanNewDesign\AntibanNewDesign\AntibanNewDesign\obj\Debug\EGYPTION V2.0 FIXED.pdb
+C:\Users\badshah\Downloads\AntibanNewDesign\AntibanNewDesign\AntibanNewDesign\obj\Debug\AntibanNewDesign.csprojAssemblyReference.cache
+C:\Users\badshah\Downloads\AntibanNewDesign\AntibanNewDesign\AntibanNewDesign\obj\Debug\Interop.WMPLib.dll
+C:\Users\badshah\Downloads\EGYPT ANTIBAN SOURCE\AntibanNewDesign\AntibanNewDesign\obj\Debug\AntibanNewDesign.csprojAssemblyReference.cache
+C:\Users\badshah\Downloads\EGYPT ANTIBAN SOURCE\AntibanNewDesign\AntibanNewDesign\obj\Debug\Interop.SHDocVw.dll
+C:\Users\badshah\Downloads\EGYPT ANTIBAN SOURCE\AntibanNewDesign\AntibanNewDesign\obj\Debug\Interop.WMPLib.dll
+C:\Users\badshah\Downloads\EGYPT ANTIBAN SOURCE\AntibanNewDesign\AntibanNewDesign\obj\Debug\AntibanNewDesign.csproj.ResolveComReference.cache
+C:\Users\badshah\Downloads\EGYPT ANTIBAN SOURCE\AntibanNewDesign\AntibanNewDesign\obj\Debug\AntibanNewDesign.Main.resources
+C:\Users\badshah\Downloads\EGYPT ANTIBAN SOURCE\AntibanNewDesign\AntibanNewDesign\obj\Debug\AntibanNewDesign.Login.resources
+C:\Users\badshah\Downloads\EGYPT ANTIBAN SOURCE\AntibanNewDesign\AntibanNewDesign\obj\Debug\AntibanNewDesign.Properties.Resources.resources
+C:\Users\badshah\Downloads\EGYPT ANTIBAN SOURCE\AntibanNewDesign\AntibanNewDesign\obj\Debug\AntibanNewDesign.csproj.GenerateResource.cache
+C:\Users\badshah\Downloads\EGYPT ANTIBAN SOURCE\AntibanNewDesign\AntibanNewDesign\obj\Debug\AntibanNewDesign.csproj.CoreCompileInputs.cache
+C:\Users\badshah\Downloads\EGYPT ANTIBAN SOURCE\AntibanNewDesign\AntibanNewDesign\obj\Debug\EGYPTION V2.0 FIXED.exe
+C:\Users\badshah\Downloads\EGYPT ANTIBAN SOURCE\AntibanNewDesign\AntibanNewDesign\obj\Debug\EGYPTION V2.0 FIXED.pdb
+C:\Users\badshah\Downloads\EGYPT ANTIBAN SOURCE\AntibanNewDesign\AntibanNewDesign\bin\Debug\EGYPTION V2.0 FIXED.exe
+C:\Users\badshah\Downloads\EGYPT ANTIBAN SOURCE\AntibanNewDesign\AntibanNewDesign\bin\Debug\EGYPTION V2.0 FIXED.pdb
+C:\Users\badshah\Downloads\EGYPT ANTIBAN SOURCE\AntibanNewDesign\AntibanNewDesign\bin\Debug\FireSharp.dll
+C:\Users\badshah\Downloads\EGYPT ANTIBAN SOURCE\AntibanNewDesign\AntibanNewDesign\bin\Debug\FireSharp.Serialization.JsonNet.dll
+C:\Users\badshah\Downloads\EGYPT ANTIBAN SOURCE\AntibanNewDesign\AntibanNewDesign\bin\Debug\Guna.UI2.dll
+C:\Users\badshah\Downloads\EGYPT ANTIBAN SOURCE\AntibanNewDesign\AntibanNewDesign\bin\Debug\Newtonsoft.Json.dll
+C:\Users\badshah\Downloads\EGYPT ANTIBAN SOURCE\AntibanNewDesign\AntibanNewDesign\bin\Debug\RestSharp.dll
+C:\Users\badshah\Downloads\EGYPT ANTIBAN SOURCE\AntibanNewDesign\AntibanNewDesign\bin\Debug\Newtonsoft.Json.xml
+C:\Users\badshah\Downloads\EGYPT ANTIBAN SOURCE\AntibanNewDesign\AntibanNewDesign\bin\Debug\RestSharp.xml
+C:\Users\badshah\Downloads\EGYPT ANTIBAN SOURCE\AntibanNewDesign\AntibanNewDesign\obj\Debug\AntibanNewDesign.csproj.CopyComplete
